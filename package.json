@@ -1,0 +1,20 @@
+{
+  "name": "queenology",
+  "version": "1.0.0",
+  "description": "a queen conscious woman never settles for less than what she deserves",
+  "main": "Node.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Des1reeJ/AdvancedNPMing.git"
+  },
+  "keywords": [],
+  "author": "xDB",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Des1reeJ/AdvancedNPMing/issues"
+  },
+  "homepage": "https://github.com/Des1reeJ/AdvancedNPMing#readme"
+}
